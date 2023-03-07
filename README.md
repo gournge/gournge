@@ -1,1 +1,3 @@
-im a student
+Optimisation and simulations.
+
+Personal website: https://gournge.github.io/
