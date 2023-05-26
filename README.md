@@ -1,4 +1,3 @@
-I'm a student. 
-Optimisation, simulations. 
+I'm a student
 
 Personal website: https://gournge.github.io/
