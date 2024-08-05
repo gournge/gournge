@@ -1,4 +1,4 @@
-I currently study bachelors math @ UW
+math undergrad @ UW
 
 ---
 Personal website: https://gournge.github.io/
