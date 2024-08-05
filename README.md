@@ -1,4 +1,4 @@
-math undergrad @ UW
+BsC Math @ UW
 
 ---
 Personal website: https://gournge.github.io/
