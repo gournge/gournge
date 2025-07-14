@@ -1,4 +1,4 @@
-Computer Science & Engineering @ TU Delft | Data Science & ML @ Smarter Diagnostics | prev. Math @ UW
+Computer Science & Engineering @ TU Delft | Data Science & ML @ Smarter Diagnostics | prev. Math @ University of Warsaw
 
 ---
 
