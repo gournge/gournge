@@ -14,4 +14,4 @@ Textbooks self-study:
 - [ ] _High dimensional Probability_ - in progress
 - [ ] _Introduction to Smooth Manifolds_ - in progress
 
-Personal website: https://gournge.github.io/
+Personal website: https://filipmorawiec.com/
