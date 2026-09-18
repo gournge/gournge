@@ -1,8 +1,12 @@
 Computer Science & Engineering @ TU Delft | Data Science & ML @ Smarter Diagnostics | prev. Math @ University of Warsaw, AI Safety Research @ University of Birmingham
 
+Personal website: https://filipmorawiec.com
+Gitlab: https://gitlab.com/filip.morawiec
+
 ---
 
 Some projects:
+- [Image generation](https://gitlab.com/filip.morawiec) - Studying Diffusion models through implementing them without Coding Assistants. Slowly reading papers and experimenting.
 - [Tanaka Certificates](https://github.com/gournge/tanaka-certificates) - My AI Safety Research internship project at University of Birmingham 2026. Certifying the properties of continous-time stochastic differential equations, but with non-smooth certificates like well-understood ReLU Neural Networks.
 - [Vampire Guide](https://github.com/MikPisula/vampire-guide/) - 2x 1st Place @ Hack4change 2024. Aggregate shadow data from anywhere, anytime. Find the shadiest and shortest path
 - [Orthogonal skip connections](https://github.com/gournge/orthogonal-skip-connections) - I improved a mathematical construction of the ResNet architecture and challenged the claims of another paper 
@@ -10,4 +14,5 @@ Some projects:
 - [Cleaning optimization](https://github.com/gournge/cleaning-optimization) - Supervised project in which an RL agent learns to use a 2D broom
 - [Copernicus transactions](https://github.com/gournge/copernicus-transactions) - Part of an Economics essay contest submission. Agents make multi-currency transactions and then the Copernicus-Gresham law emerges
 
-Personal website: https://filipmorawiec.com/
+---
+
