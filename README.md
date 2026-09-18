@@ -1,6 +1,7 @@
 Computer Science & Engineering @ TU Delft | Data Science & ML @ Smarter Diagnostics | prev. Math @ University of Warsaw, AI Safety Research @ University of Birmingham
 
 Personal website: https://filipmorawiec.com
+
 Gitlab: https://gitlab.com/filip.morawiec
 
 ---
